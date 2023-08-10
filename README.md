@@ -8,7 +8,7 @@
 ##
 
 - 🌱 I’m currently learning **DevOps**
-- 🖥️ Passionate about Computer Science & Cloud Computing.
+- 🖥️ Passionate about Computer Science & Cloud Computing
 - 💬 Ask me about **AWS, C++, Linux, SQL, Docker**
 - 📫 Reach out to me at **vaibhavpangarkar19@gmail.com**
 
@@ -28,13 +28,17 @@
 
 <br>
 
-## Technologies and Skills 
-     
+   
+## ⚡ Technologies
+
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 <br>
