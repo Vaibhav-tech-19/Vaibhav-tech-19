@@ -16,7 +16,7 @@
 
 <br>
 
-## Connect with me:
+## ✅ Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/vaibhav-pangarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-pangarkar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/19_.vaibhav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="19_.vaibhav" height="30" width="40" /></a>
