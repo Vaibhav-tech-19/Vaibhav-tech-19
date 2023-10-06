@@ -50,9 +50,9 @@
 
 <html>
 <div>
-   <a href="https://www.credly.com/badges/891e100c-2227-437f-8668-7d0e6317e3af/public_url">
+<!--    <a href="https://www.credly.com/badges/891e100c-2227-437f-8668-7d0e6317e3af/public_url">
          <img src="https://github.com/Vaibhav-tech-19/Vaibhav-tech-19/blob/main/aws-certified-developer-associate.png" width="150 px" height = "150px" >
-      </a> 
+      </a>  -->
    <a href="https://www.credly.com/badges/45da4aee-9aba-457b-8b27-9140af8dcad1/public_url">
          <img src="https://github.com/Vaibhav-tech-19/Vaibhav-tech-19/blob/main/aws-certified-cloud-practitioner.png" width="150 px" height = "150px" >
       </a> 
