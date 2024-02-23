@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 - 🖥️ Passionate about Computer Science & Cloud Computing
-- 💬 Ask me about **AWS, C++, Linux, SQL, Docker**
+- 💬 Ask me about **AWS, C++, OOPs, Linux, SQL, Docker**
 - 📫 Reach out to me at **vaibhavpangarkar19@gmail.com**
 
 
